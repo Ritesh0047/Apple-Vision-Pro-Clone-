@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: "SF";
-    src: url(/fonts/sf-pro-text_light.woff2);
+    src: url(./fonts/sf-pro-text_light.woff2);
 }
 
 * {
